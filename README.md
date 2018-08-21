@@ -1,5 +1,6 @@
 # React - Redux Observable Epic Chain Apis
-Sample project demonstrating how to chain api calls using Redux Observable Epic (RxJs 6.x.x)
+Sample project demonstrating how to chain Api calls using Redux Observable Epic (RxJs 6.x.x).
+Each subsequent Api depends on data returned by previous Api call.
 
 Project Setup
 * React v16.4.2
