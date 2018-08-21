@@ -1,3 +1,4 @@
+import { combineReducers } from "redux";
 import types from '../types'
 
 //init state
@@ -20,4 +21,6 @@ const ping = (state = initialPingState, action) => {
     }
 };
 
-export default ping;
+export default combineReducers({
+    ping
+});
