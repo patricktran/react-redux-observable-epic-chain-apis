@@ -10,4 +10,4 @@ Project Setup
 
 [Redux Observable v1.0.0 Migration](https://github.com/redux-observable/redux-observable/blob/master/MIGRATION.md)
 
-[screenshot](/screenshot.png?raw=true)
+![screenshot](/screenshot.png?raw=true)
